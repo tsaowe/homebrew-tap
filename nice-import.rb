@@ -2,7 +2,7 @@ class NiceImport < Formula
   desc "Sort and group import statements in local files to make the file headers look cleaner"
   homepage "https://github.com/tsaowe/nice-import"
   url "https://github.com/tsaowe/nice-import/archive/refs/tags/v0.0.3.tar.gz"
-  sha256 "your_tarball_sha256_hash"
+  sha256 "48044d10aca6824e04a09805d34b7033252a56bb3a5ef8e117161d94dcd9dd5c"
   license "ISC"
 
   depends_on "node"
